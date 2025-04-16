@@ -62,9 +62,6 @@ def run(args):
         print(f"{Fore.YELLOW}[!] No log files found to analyze{Style.RESET_ALL}")
         return
     
-    print(f"{Fore  No log files found to analyze{Style.RESET_ALL}")
-        return
-    
     print(f"{Fore.GREEN}[+] Found {len(files_to_analyze)} log files to analyze{Style.RESET_ALL}")
     
     results = []
