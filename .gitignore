@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.log
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Debian package
+*.deb
+moshenasec.deb

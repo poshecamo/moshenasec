@@ -1,0 +1,1 @@
+# Log detector module initialization
